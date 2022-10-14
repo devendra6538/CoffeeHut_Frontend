@@ -1,3 +1,3 @@
 1.First product
 2.Second Product
-New entery from discount details
+3.New entery from discount details
